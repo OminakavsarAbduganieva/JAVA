@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Getting started : Serving Web Content</title>
+</head>
+<body>
+<h1 th:text="'Hello there '+ ${name} + '!'"> </h1>
+<div class="image-container">
+    <img th:src="@{/images/unnamed.jpg}" width="600" height="600" alt="Image"/>
+</div>
+</body>
+</html>
