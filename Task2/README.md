@@ -19,36 +19,36 @@
 
 Interactive API documentation powered by **Swagger / OpenAPI**.
 
-![Swagger UI](./img/swagger.png)
+![Swagger UI](../img/swagger.png)
 
 ---
 
 ## **Post**
-![Post UI](./img/pp.png)
+![Post UI](../img/pp.png)
 ---
 
 ## **Get**
-![Get UI](./img/gg.png)
+![Get UI](../img/gg.png)
 ---
 
 ## **Delete**
-![Delete UI](./img/dd.png)
+![Delete UI](../img/dd.png)
 ---
 
 ## **error/page 404 (Exception handling)**
-![Delete UI](./img/error404.png)
+![Delete UI](../img/error404.png)
 
 ---
 
 ## Database Integration
 - **H2 Console Database**
-![H2 Database](./img/login.png)
+![H2 Database](../img/login.png)
 
 ---
 
 ### 📍 Database Access
 
-![H2 Database](./img/data.png)
+![H2 Database](../img/data.png)
 
 ---
 
