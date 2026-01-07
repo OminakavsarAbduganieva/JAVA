@@ -6,11 +6,11 @@
 ### ✅ create, retrieve, update,delete (CRUP) Operations
 
 
-# **POST `/api/v1/products` Create a new product**
-# **GET `/api/v1/products` Retrieve all products**
-# **GET `/api/v1/products/{id}` Retrieve product by ID**
-# **PUT `/api/v1/products/{id}` Update an existing product**
-# **DELETE `/api/v1/products/{id}` Delete a product**
+### **POST `/api/v1/products` Create a new product**
+### **GET `/api/v1/products` Retrieve all products**
+### **GET `/api/v1/products/{id}` Retrieve product by ID**
+### **PUT `/api/v1/products/{id}` Update an existing product**
+### **DELETE `/api/v1/products/{id}` Delete a product**
 
 
 ---
